@@ -1,5 +1,6 @@
 import javax.swing.JOptionPane;
 //comentario de luis
+//comentario de javier :D
 public class TorresHanoi {
 public static void hanoi (int n, String ini, String aux, String fin) {
  if (n > 0) {
